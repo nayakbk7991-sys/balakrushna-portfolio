@@ -1,16 +1,115 @@
-# React + Vite
+# Balakrushna Nayak — Frontend Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal frontend developer portfolio.
 
-Currently, two official plugins are available:
+This portfolio showcases my skills, projects, and experience in building responsive and user-friendly web applications using modern frontend technologies.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Live Portfolio
 
-## React Compiler
+[View My Portfolio](https://nayakbk7991-sys.github.io/balakrushna-portfolio/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## About Me
 
-## Expanding the ESLint configuration
+I am a Frontend Developer with a background in Computer Science and hands-on experience building responsive and user-friendly web applications.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+I work with HTML, CSS, JavaScript, React, Bootstrap, Git and GitHub. I enjoy creating modern user interfaces, working with APIs, debugging applications, and turning ideas into functional web experiences.
+
+I am continuously improving my frontend development skills and looking for opportunities to start and grow my career as a Frontend Developer.
+
+## Technologies & Skills
+
+* HTML
+* CSS
+* JavaScript
+* React
+* Bootstrap
+* Git
+* GitHub
+* REST APIs
+* Responsive Web Design
+* Vite
+* Node.js
+* npm
+* Font Awesome
+
+## Featured Projects
+
+### ShopSphere
+
+A responsive e-commerce web application built with React.
+
+Features include:
+
+* Product listing
+* Search
+* Filtering
+* Sorting
+* Wishlist
+* Shopping cart
+* Quantity management
+* Checkout
+* LocalStorage
+* Responsive design
+
+Technologies: React, JavaScript, CSS, Vite
+
+[Live Demo](https://nayakbk7991-sys.github.io/ShopSphere/) | [GitHub Repository](https://github.com/nayakbk7991-sys/ShopSphere)
+
+### KrishGooo Travel
+
+A bus travel booking interface built using HTML, CSS and JavaScript.
+
+Features include:
+
+* Route selection
+* Bus listings
+* Seat selection
+* Passenger details
+* Booking summary
+* Responsive user interface
+
+Technologies: HTML, CSS, JavaScript
+
+[GitHub Repository](https://github.com/nayakbk7991-sys/KrishGooo-the-traveling-web-page)
+
+### Login Manager
+
+A login interface built using HTML, CSS and JavaScript.
+
+Features include:
+
+* Email validation
+* Password validation
+* Show/hide password
+* Success messages
+* Error messages
+* Responsive design
+
+Technologies: HTML, CSS, JavaScript
+
+[GitHub Repository](https://github.com/nayakbk7991-sys/Login-manager_js)
+
+## Portfolio Features
+
+* Responsive design
+* Modern user interface
+* About section
+* Skills section
+* Projects showcase
+* Contact section
+* GitHub integration
+* LinkedIn integration
+* Email contact
+* GitHub Pages deployment
+
+## Connect With Me
+
+* Email: [nayakbk7991@gmail.com](mailto:nayakbk7991@gmail.com)
+* GitHub: https://github.com/nayakbk7991-sys
+* LinkedIn: https://www.linkedin.com/in/balakrushna-nayak-a50b90319/
+
+## Deployment
+
+This portfolio is built with React and Vite and deployed using GitHub Pages.
+
+© 2026 Balakrushna Nayak. All Rights Reserved.
